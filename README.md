@@ -1,4 +1,4 @@
-# abhiy-homepage
+# homepage
 
 Static homepage for [abhiy.xyz](https://abhiy.xyz/).
 
