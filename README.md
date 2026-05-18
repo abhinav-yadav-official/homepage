@@ -1,6 +1,8 @@
 # homepage
 
-Static homepage for [abhiy.xyz](https://abhiy.xyz/).
+Static homepage for [abhiyadav.in](https://abhiyadav.in/).
+
+Author: https://abhiyadav.in
 
 ## Files
 
